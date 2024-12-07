@@ -1,0 +1,11 @@
+kafka:
+  topic:
+    name: student-kafka-topic
+  consumer:
+    group-id: student-kafka-cg 
+
+bootstrap-servers: localhost:9092
+
+    
+    
+    
